@@ -1,2 +1,2 @@
 # personal_repository
-some codes
+random set of codes, pending migration to specific repositories
